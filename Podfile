@@ -1,4 +1,4 @@
-platform :ios, :deployment_target => "9.0"
+platform :ios, :deployment_target => "12.0"
 use_frameworks!
 
 def pods
